@@ -32,20 +32,17 @@ Allows students to create assignment tasks under class categories and stay organ
 
 ## Product Spec
 
-### 1. User Stories
+### 1. Completed User Stories
 
-#### Required (Must-have)
-- User can view their courses on the home screen  
-- User can select a course to see more details  
-- User can navigate between main sections using the bottom tab bar  
-- User can view scheduled study sessions or tasks  
-- User can access the app dashboard after opening the app  
-
-#### Optional (Nice-to-have)
-- User can add or edit courses  
-- User can persist user data across working sessions  
-- User can receive reminders for scheduled study sessions  
-- User can customize their study dashboard  
+- [x] User can view their courses on the home screen  
+- [x] User can select a course to see more details  
+- [x] User can navigate between main sections using the bottom tab bar  
+- [x] User can view scheduled study sessions or tasks  
+- [x] User can access the app dashboard after opening the app
+- [x] User can add or edit courses  
+- [x] User can persist user data across working sessions  
+- [x] User can receive reminders for scheduled study sessions  
+- [x] User can customize their study dashboard
 
 ---
 
